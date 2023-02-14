@@ -8,3 +8,4 @@ command is running
 git push
 Hello world
 over
+//ok
